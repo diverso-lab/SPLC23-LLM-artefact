@@ -1,0 +1,98 @@
+features
+	james
+		mandatory
+			user_mngt
+				alternative
+					db
+					ldap
+		optional
+			ws_interface
+		mandatory
+			gui
+				alternative
+					desktop
+					pda
+					web
+		mandatory
+			installer
+		optional
+			updater
+		optional
+			security
+				alternative
+					mngt_pwd
+					dig_sig
+		mandatory
+			modules
+				alternative
+					web_browser
+					editor
+					calendar
+					forum
+					congress_mngt
+					repository
+					irc
+					file_sharer
+					sms
+					rss_reader
+constraints
+	congress_mngt requires repository
+	pda excludes calendar
+	pda excludes forum
+	pda excludes congress_mngt
+	pda excludes repository
+	pda excludes file_sharer
+	pda excludes rss_reader
+
+distributions
+	pda
+		mandatory
+			user_mngt
+				alternative
+					db
+					ldap
+		mandatory
+			gui
+				alternative
+					pda
+		mandatory
+			installer
+		optional
+			security
+				alternative
+					mngt_pwd
+					dig_sig
+		mandatory
+			modules
+				alternative
+					calendar
+					forum
+					congress_mngt
+					repository
+					sms
+constraints
+	congress_mngt requires repository
+	pda excludes repository
+
+distributions
+	pc
+		mandatory
+			user_mngt
+				alternative
+					db
+					ld			gui
+				or
+					pc
+					pda
+		mandatory
+			core
+		mandatory
+			modules
+				or
+					calendar
+					forum
+					congress_mngt
+					repository
+constraints
+	pda excludes repository
+	congress_mngt requires repository

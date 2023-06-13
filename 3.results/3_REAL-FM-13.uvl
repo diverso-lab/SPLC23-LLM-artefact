@@ -1,0 +1,51 @@
+features
+	tecom
+		optional
+			ipvoice
+				mandatory
+					software
+						alternative
+							swpack1
+							swpack2
+		mandatory
+			firewall
+				alternative
+					firewall1
+					firewall2
+					firewall3
+					firewall4
+					firewall5
+					firewall6
+		mandatory
+			routing
+				mandatory
+					routing1
+				optional
+					routing2
+		mandatory
+			switching
+				mandatory
+					switch1
+				optional
+					switch2
+		mandatory
+			server
+				mandatory
+					server1
+				optional
+					server2
+		optional
+			rack
+				mandatory
+					sizes
+						alternative
+							large
+							medium
+							small
+		optional
+			messaging
+				optional
+					upgrade_swpack
+constraints
+	swpack1 excludes upgrade_swpack
+	ipvoice excludes upgrade_swpack
