@@ -1,0 +1,1 @@
+editor_config backup autosave minutes backup_onchange minutes backup_onclose yes_no backup_format backup_format backup_folder folder backup_rename backup_extension file_bak file_bak_ext file_ext_bak

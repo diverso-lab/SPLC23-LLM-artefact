@@ -1,0 +1,1 @@
+weather_station measurements pressure temperature wind_speed data_source local_data local_data_format xml html plain_text local_data_location file_path file_url opendata_api local_data_provider DWD ZAMG local_data_language english german local_data_content forecast observation weather_warning local_data_permission internet demo external_services
