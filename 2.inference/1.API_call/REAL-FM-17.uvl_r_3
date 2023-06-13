@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tinsurance_benefit\n\t\t"
+    }
+  ],
+  "created": 1677666014,
+  "id": "cmpl-6pDrCVM643JJxHgMperEF7QiTBSP3",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 306,
+    "total_tokens": 317
+  }
+}

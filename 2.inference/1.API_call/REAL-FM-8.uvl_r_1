@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\toil_level\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\toil_level_sensors\n\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\toil_level_sensors_"
+    }
+  ],
+  "created": 1677665549,
+  "id": "cmpl-6pDjhm3AmeO2RVIp742q6pH6moiLb",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 262,
+    "total_tokens": 352
+  }
+}

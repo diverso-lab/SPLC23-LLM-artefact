@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tbuffered\n\t\t\t\t\t\t\t\t\t\t\tnon-buffered\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tKeep alive\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tbuffered\n\t\t\t\t\t\t\t\t\t\t\tnon-buffered\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tRetry\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tbuffered\n\t\t\t\t\t\t\t\t\t\t\tnon-buffered\n\t\t\t\t\t\t\t\trequired\n\t\t\t\t\t\t\t\t\tData flow\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\trequest-response\n\t\t\t\t\t\t\t\t\t\t\tnot supported\n\t\t\t\t\t\t\t\trequired\n\t\t\t\t\t\t\t\t\tMulti-threading\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\tsupport\n\t\t\t\t\t\t\t\t\t\t\t\tnot support\n\t\t\t\t\t\t\t\trequired\n"
+    }
+  ],
+  "created": 1677663424,
+  "id": "cmpl-6pDBQ3P5Hvl1b93WspcJr02oDGXN0",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 309,
+    "prompt_tokens": 310,
+    "total_tokens": 619
+  }
+}

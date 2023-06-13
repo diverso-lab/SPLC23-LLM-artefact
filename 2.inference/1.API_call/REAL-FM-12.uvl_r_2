@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t_id_4\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_id_8\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\talternative_image\n\t\t\t\t\t\t\t\t\t\t\t\tsvg\n\t\t\t\t\t\t\t\t\t\t\timage\n\t\t\t\t\t\t\t\t\t\t\t\timage\n\t\t\t\t\t\t\t\t\t\t\tloading\n\t\t\t\t\t\t\t\t\t\t\t\tloading\n\t\t\t\t\t\t\t\t\t\t\ttitle\n\t\t\t\t\t\t\t\t\t\t\t\ttext\n\t\t\t\t\t\t\t\t\t\t\turl\n\t\t\t\t\t\t\t\t\t\t\t\ttext\n\t\t\t\t\t\t\t\t\t\t\t\tconstraints\n\t\t\t\t\t\t\t\t\t\t\t\t\turl\n\t\t\t\t\t\t\t\t\t\t\t\t\t\turl\n\n\t\t"
+    }
+  ],
+  "created": 1677667206,
+  "id": "cmpl-6pEAQRTSJWJZUVkNpQTAmLF1bm72k",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 245,
+    "prompt_tokens": 206,
+    "total_tokens": 451
+  }
+}

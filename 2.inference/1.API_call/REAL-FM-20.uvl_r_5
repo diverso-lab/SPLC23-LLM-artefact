@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_dispach_method\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_c\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_cxx\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_interval\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_tick\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_sleep\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_cancel\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_nocancel\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_cancel\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_life\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_global_life\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_context_life\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_preemption\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_preemptable\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_non_preemptable\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_stacksize\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tcoroutine_"
+    }
+  ],
+  "created": 1677663180,
+  "id": "cmpl-6pD7UfZJJJrmqNQX5DWpErnSZQE4A",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 419,
+    "prompt_tokens": 1321,
+    "total_tokens": 1740
+  }
+}

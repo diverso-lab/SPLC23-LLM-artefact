@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tTimeout-Schedule\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tTimeout-Periodic\n\t\t\t\t\t\t\t\t\t\t\t\t\tTimeout-Event-Driven\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tPolling\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\tBlocking\n\t\t\t\t\t\t\t\t\t\t\tNon-blocking\n\t\t\t\t\t\t\t\t\tCallback\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tCallback-Schedule\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tCallback-Periodic\n\t\t\t\t\t\t\t\t\t\t\t\t\tCallback-Event-Driven\n"
+    }
+  ],
+  "created": 1677663568,
+  "id": "cmpl-6pDDkdw03Jlj3XcBIqZI5cbnf36JD",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 239,
+    "prompt_tokens": 310,
+    "total_tokens": 549
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t_r_10_11_12\n\t\t\t\t\t_r_10_11_13\n\t\toptional\n\t\t\t_r_15\n\t\t\t\talternative\n\t\t\t\t\t_r_15_16_17\n\t\t\t\t\t_r_15_16_18\n\t\tmandatory\n\t\t\t_r_19\n\t\t\t\tor\n\t\t\t\t\t_r_19_20_22\n\t\t\t\t\t_r_19_20_23\n\t\t\t\t\t_r_19_20_24\n\t\t\t\t\t_r_19_20_25\n\t\t\t\t\t_r_19_20_26\n\t\t\t\t\t_r_19_20_27\nconstraints\n\t_r_10_11_13 requires _r_19_20_25\n\t_r_19_20_23 excludes _r_19_20_27\n\t_r_3_4_6 requires _r_19_20_25\n\t_r_3_4_5 requires _r_19_20_27\n\t_r_19_20_25 excludes _r_19_20_26\n\t_r_10_11_13 requires _r_19_20_26\n\t_r_3_4_6 requires _r_19_20_23\n\t_r_19_20_22 excludes _r_19_20_23\n\t_r_15 requires _r_19_20_22\n\t_r_3_4_6 requires _r_19_20_26\n\t_r_19_20_26 excludes _r_19_20_27\n\t_r_15_16_18 requires _r_19_20_24\n\t_r_19_20_25 excludes _r_19_20_27\n\nfeatures\n\t_r\n\t\tmandatory\n\t\t\t_r_3\n\t\t\t\talternative\n\t\t\t\t\t_r_3_4_5\n\t\t\t\t\t_r_3_4_6\n\t\toptional\n\t\t\t_r_10\n\t\t\t\talternative\n"
+    }
+  ],
+  "created": 1677664105,
+  "id": "cmpl-6pDMP9qbOFYfJpUIERvD4zKgO882U",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 495,
+    "total_tokens": 995
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tlip\n\t\t\t\tmandatory\n\t\t\t\t\tsoftware\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tswpack1\n\t\t\t\t\t\t\tswpack2\n\t\t"
+    }
+  ],
+  "created": 1677664592,
+  "id": "cmpl-6pDUGuh1Vsx2Di0zwHNQvT1qODL0j",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 169,
+    "total_tokens": 222
+  }
+}

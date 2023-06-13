@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tmail\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tchat\n\t\t\t\tmandatory\n\t\t\t\t\tweb_browser\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\thttp\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\thttps\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\thtml\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tdhtml\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\txml\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tjava\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tjava_script\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tjava_applets\n\n\t\t\t\t\toptional\n\t\t\t\t\t\tirc\n\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\tchannel\n\t\t\t\t\toptional\n\t\t\t\t\t\ttelnet\n\t\t\t\t\toptional\n\t\t\t\t\t\tssh\n\t\t\t\t\toptional\n\t\t\t\t\t\tsftp\n\t\t\t\t\toptional\n\t\t\t\t\t\tftp\n\t\t\t\t\toptional\n\t\t\t\t\t\tnfs\n\t\t\t\t\toptional\n\t\t\t\t\t\trsh\n\t\t\t\t\toptional\n\t\t\t\t\t\trlogin\n\t\t\t\t\toptional\n\t\t\t\t\t\trsync\n\t\t\t\t\toptional\n\t\t\t\t\t\trcp\n\t\t\t\t\toptional\n\t\t\t\t\t\trwhod\n\t\t\t\t\toptional\n\t\t\t\t\t\tifconfig\n\t\t\t\t\toptional\n\t\t\t\t\t\troute\n\t\t\t\t\toptional\n\t\t\t\t\t\tping\n\t\t\t\t\toptional\n\t\t\t\t\t\tnetstat\n\t\t\t\t\toptional\n\t\t\t\t\t\tarp\n\t\t\t\t\toptional\n\t\t\t\t\t\tfinger\n\t\t\t\t\toptional\n"
+    }
+  ],
+  "created": 1677666471,
+  "id": "cmpl-6pDyZIYYyRWLhr0ovE1IqLYOUOsdx",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 394,
+    "total_tokens": 894
+  }
+}

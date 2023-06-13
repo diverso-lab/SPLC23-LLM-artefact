@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t_id_3\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t_id_4\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_id_5\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t_id_7\n\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\t_id_4\n\t\t\t\t\t\t\t\t\t\t\t_id_9\n\t\t\t\t\t\t\t\t\t\t\t_id_10\n\t\t\t\toptional\n\t\t\t\t\t_id_11\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t_id_12\n\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t_id_14\n\t\t\t\t\t\t\t\t\t_id_15\n\t\t\t\t\t\t\t\t\t_id_16\n\t\t\t\t\t\t\t\t\t_id_17\n\t\t\t\t\t\t\t\t\t_id_18\n\t\t\t\t\t\t\t\t\t_id_19\n\t\t\t\t\t\t\t\t\t_id_20\n\t\t\t\t\t\t\t\t\t_id_21\n\t\t\t\t\t\t\t\t\t_id_22\n\t\t\t\t\t\t\t\t\t_id_23\n\t\t\t\t\t\t\t\t\t_id_24\n\t\t\t\tmandatory\n\t\t\t\t\tregistration_and_customer_accounts\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t_id_26\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_id_27\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_id_28\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_id_29\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677665340,
+  "id": "cmpl-6pDgK8M02vdfCw528qtw5E7ihs46H",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 6932,
+    "total_tokens": 7432
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tfirewall\n\t\t\t\talternative\n\t\t\t\t\tfirewall1\n\t\t\t\t\tfirewall2\n\t\t\t\t\tfirewall3\n\t\t\t\t\tfirewall4\n\t\t\t\t\tfirewall5\n\t\t\t\t\tfirewall6\n\t\tmandatory\n\t\t\trouting\n\t\t\t\tmandatory\n\t\t\t\t\trouting1\n\t\t\t\toptional\n\t\t\t\t\trouting2\n\t\tmandatory\n\t\t\tswitching\n\t\t\t\tmandatory\n\t\t\t\t\tswitch1\n\t\t\t\toptional\n\t\t\t\t\tswitch2\n\t\tmandatory\n\t\t\tserver\n\t\t\t\tmandatory\n\t\t\t\t\tserver1\n\t\t\t\toptional\n\t\t\t\t\tserver2\n\t\toptional\n"
+    }
+  ],
+  "created": 1677664485,
+  "id": "cmpl-6pDSX9oPXZyWNvFxvB2avXiyPr4Gs",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 193,
+    "prompt_tokens": 169,
+    "total_tokens": 362
+  }
+}

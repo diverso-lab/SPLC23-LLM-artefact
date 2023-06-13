@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tdtmf\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tvoice_recognition\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tvoice_recognition\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tdtmf\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tdtmf\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tvoice_recognition\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tdtmf\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tsms\n\t\t\t\toptional\n\t\t\t\t\tkeyboard\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tmouse\n\t\t\t\toptional\n\t\t\t\t\tmouse\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tkeyboard\n\t\t\t\toptional\n\t\t\t\t\tkeyboard\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tmouse\n\t\t\t\toptional\n\t\t\t\t\tweb\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tnet\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\twap\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\temail\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tnet\n\t\t\t\toptional\n\t\t\t\t\twap\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tweb\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tnet\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\temail\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\taudio\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tadd_music\n\t\t\t\toptional\n\t\t\t\t\temail\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tweb\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\twap\n"
+    }
+  ],
+  "created": 1677666310,
+  "id": "cmpl-6pDvyRYfl5DBL70sm382PgEqr5qIc",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 394,
+    "total_tokens": 894
+  }
+}

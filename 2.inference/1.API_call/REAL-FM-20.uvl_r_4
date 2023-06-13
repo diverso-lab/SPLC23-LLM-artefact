@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tsingle_dispatching\n\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispach_quantum\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tquantum\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tquantum_4\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tquantum_8\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tquantum_16\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispatch_method\n\t\t\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tround_robin\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tthread_priority_change\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tpriority_inherit\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tpriority_"
+    }
+  ],
+  "created": 1677663123,
+  "id": "cmpl-6pD6ZuNi7Sj9JZZsWmTKbibRYDcgc",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 373,
+    "prompt_tokens": 1321,
+    "total_tokens": 1694
+  }
+}

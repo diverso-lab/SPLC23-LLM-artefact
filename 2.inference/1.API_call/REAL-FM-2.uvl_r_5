@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\tor\n\t\t\t\t\tfile\n\t\t\t\t\thttp_connection\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tinternet\n\t\t\t\t\t\t\town_network\n\t\tmandatory\n\t\t\tcommunication_protocol\n\t\t\t\tor\n\t\t\t\t\thttp\n\t\t\t\t\tsmtp\n\t\t\t\t\tweather_protocol\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tinternet\n\t\t\t\t\t\t\town_network\n\t\toptional\n\t\t\tlocation\n\t\t\t\talternative\n\t\t\t\t\tgps_signal\n\t\t\t\t\tmanually_entered\n\t\toptional\n\t\t\ttime\n\t\t\t\talternative\n\t\t\t\t\tgps_signal\n\t\t\t\t\tmanually_entered\n\t\toptional\n\t\t\tgps_signal_receiving\n\t\t\t\talternative\n\t\t\t\t\tgps_device\n\t\t\t\t\texternal_services\n\t\toptional\n\t\t\tsending_email_address\n\t\toptional\n\t\t\treceiving_email_address\n\t\toptional\n\t\t\tdisplay\n\t\t\t\talternative\n\t\t\t\t\tlcd\n\t\t\t\t\tled\n\t\toptional\n\t\t\tcommunication_method\n\t\t\t\talternative\n\t\t\t\t\ttext_message\n\t"
+    }
+  ],
+  "created": 1677665274,
+  "id": "cmpl-6pDfGGkWRfpg5WlhRBA5jEweFvsKr",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 277,
+    "total_tokens": 609
+  }
+}

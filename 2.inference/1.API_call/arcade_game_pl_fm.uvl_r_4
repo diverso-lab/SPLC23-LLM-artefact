@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\tmandatory\n\t\t\t\t\tLoad_Game\n\t\t\t\tmandatory\n\t\t\t\t\tGet_Help\n\t\t\t\tmandatory\n\t\t\t\t\tExit_Game\n\t\t\t\tmandatory\n\t\t\t\t\tInstall_Game\n\t\t\t\tmandatory\n\t\t\t\t\tUninstall_Game\n\t\t\t\tmandatory\n\t\t\t\t\tList_Game\n\t\t\t\tmandatory\n\t\t\t\t\tPlay_Game\n\t\t\t\tmandatory\n\t\t\t\t\tInitialization\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tAnimation_Loop\n\t\tmandatory\n\t\t\tClass_Diagram\n\t\t\t\tmandatory\n\t\t\t\t\tgame_sprite\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tsprite_pair\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tRectangle\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tSize\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tPoint\n\t\t\t\t\t\tor\n\t\t\t\t\t\t\tMovable_Sprite\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tVelocity\n\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\tPaddle\n\t\t\t\t\t\t\tStationary_Sprite\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tWall\n\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\tbrick_brickles\n\t\t\t\t\t\t\t\t\tbrick_pile_brickles\n\t\t\t\t\t\t\t\t\tceiling_brickles\n\t\t\t\t\t\t\t\t\tfloor_brickles\n\t\t\t\t\t\t\t\t\tlane_bowling\n\t\t\t\t\t\t\t\t\tgutter_bowling\n\t\t\t\t\t\t\t\t\tedge_bowling\n\t\t\t\t\t\t\t\t\talley_bowling\n\t\t\t\t"
+    }
+  ],
+  "created": 1677662687,
+  "id": "cmpl-6pCzXLfVaLC4HFV0h8rnpCS1kqaaG",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1482,
+    "total_tokens": 1982
+  }
+}

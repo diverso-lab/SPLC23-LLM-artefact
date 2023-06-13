@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tstudioxpslaptops\n\t\t\t\tmandatory\n\t\t\t\t\tinspironlaptops\n\t\t\t\t\tstudiolaptops\n\t\t\t\t\txpslaptops\n\t\t\t\t\tadamo\n"
+    }
+  ],
+  "created": 1677667517,
+  "id": "cmpl-6pEFRg28Euui8vuBuT240eaeXwkbF",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 1781,
+    "total_tokens": 1842
+  }
+}

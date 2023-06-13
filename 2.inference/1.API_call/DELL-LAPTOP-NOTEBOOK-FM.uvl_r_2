@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tstudioxpslaptops\n\t\tmandatory\n\t\t\toperatingsystem\n\t\t\t\talternative\n\t\t\t\t\twindowsvista64bit\n\t\t\t\t\twindowsxphome\n\t\t\t\t\tubuntulinux\n\t\t\t\t\t_id_2_48\n\t\t\t\t\t_id_2_49\n\t\tmandatory\n\t\t\tharddrive\n\t\t\t\talternative\n\t\t\t\t\thd500gb\n\t\t\t\t\thd320gb\n\t\t\t\t\thd250gb\n\t\t\t\t\thd160gb\n\t\t\t\t\thd128gbsolidstate\n\t\t\t\t\thd120gb\n\t\t\t\t\thd80gb\n\t\toptional\n\t\t\topticaldrive\n\t\t\t\talternative\n\t\t\t\t\tcddvdrw\n\t\t\t\t\tdvdromdriveanddvdrw\n\t\t\t\t\tdvdrwandcdrwcombo\n\t\t\t\t\tbluraydisc\n\t\tmandatory\n\t\t\tlaptopweight\n\t\t\t\talternative\n\t\t\t\t\tultralight\n\t\t\t\t\tlight\n\t\t\t\t\tdesktopreplacement\n\t\tmandatory\n\t\t\tmemory\n\t\t\t\talternative\n\t\t\t\t\tmorethan4g\n\t\t\t\t\tmem4gb\n\t\t\t\t\tmem3gb\n\t\t\t\t\tmem2gb\n\t\t\t\t\tmem1gb\n\t\tmandatory\n\t\t\tprocessor\n\t\t\t\talternative\n\t\t\t\t\tintelcore2duo\n\t\t\t\t\tintelpentiumdualcore\n\t\t\t\t\tintelceleron\n\t\t\t\t\tintelatom\n\t\tmandatory\n\t\t\tprice\n\t\t\t\talternative\n\t\t\t\t\tlessthanus400\n\t\t\t\t\tus400us800\n\t\t\t\t\tus800us1200\n\t\t\t\t\tmorethanus1200\n\t_id_1\n\t\tmandatory\n\t\t\tproductcategory\n\t\t\t\talternative\n\t\t\t\t\tmininotebooks\n\t\t"
+    }
+  ],
+  "created": 1677667391,
+  "id": "cmpl-6pEDPyKqafoVuvbMY2uyLfS1A1XZY",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1781,
+    "total_tokens": 2281
+  }
+}

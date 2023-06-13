@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tmessaging\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\temail\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\temail_search\n\t\t\t\t\t\t\tchat\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tirc\n\t\t\t\t\t\t\t\t\tjabber\n\t\t\t\t\t\t\t\t\tyahoo\n\t\t\t\t\t\t\t\t\tmsn\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tsite_chat\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tchat_server\n\t\t\t\t\t\t\tblog\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tblog_server\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tblog_search\n\t\t\t\t\t\t\trss\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\trss_server\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\trss_search\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\trss_feed\n\t\t\t\t\t\t\tnews\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tnews_server\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tnews_search\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tnews_feed\n\t\t\t\t\t\t\tsearch\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tsearch_server\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677666988,
+  "id": "cmpl-6pE6ubSNPwzjobSoKtbDB5APObGsw",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 451,
+    "prompt_tokens": 652,
+    "total_tokens": 1103
+  }
+}

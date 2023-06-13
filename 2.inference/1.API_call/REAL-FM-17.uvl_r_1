@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tinsurance_coverage\n\t\t\t\talternative\n\t\t\t\t\t\tor\n\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tor\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thealth_care\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\trequires\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tillness\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\taccident\n\t\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677665920,
+  "id": "cmpl-6pDpgMwXEIJwD90JiXL1HFOWbG4i7",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 306,
+    "total_tokens": 806
+  }
+}

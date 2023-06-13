@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tclear_selection\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\tclear_all\n\t\t\t\t\t\t\t\t\t\t\tclear_part\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tentity_selection\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tconnector_selection\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\trange_selection\n"
+    }
+  ],
+  "created": 1677662513,
+  "id": "cmpl-6pCwjMZNIjmA4Y8oQQuSpJdRM4E4g",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 745,
+    "total_tokens": 886
+  }
+}

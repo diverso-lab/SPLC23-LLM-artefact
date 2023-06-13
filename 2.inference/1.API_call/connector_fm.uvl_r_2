@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tInfinite\n\t\t\t\t\t\t\t\t\t\t\tFinite\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tBlocking\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tAsynchronous\n\t\t\t\t\t\t\t\t\t\t\tSynchronous\n\t\t\t\t\t\t\t\toptional\n\t"
+    }
+  ],
+  "created": 1677663474,
+  "id": "cmpl-6pDCE3QaccJsCYDyKEzCeLmZC0R0Z",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 310,
+    "total_tokens": 424
+  }
+}

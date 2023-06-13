@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tExit_Game\n\t\t\t\tmandatory\n\t\t\t\t\tLoad_Game\n\t\t\t\t\t\tmandatory\n\t\t"
+    }
+  ],
+  "created": 1677662749,
+  "id": "cmpl-6pD0X50iNMVxDns7yeU6ql3dTKeMh",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 1482,
+    "total_tokens": 1530
+  }
+}

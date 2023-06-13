@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\track\n\t\t\t\tmandatory\n\t\t\t\t\tsizes\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tlarge\n\t\t\t\t\t\t\tmedium\n\t\t\t\t\t\t\tsmall\n\t\t\tmessaging\n\t\t\t\tmandatory\n\t\t\t\t\tupgrade_swpack\n\t\toptional\n\t\t\tmessaging\n\t\t\t\toptional\n\t\t\t\t\tupgrade_swpack\n\t\t\tipvoice\n\t\t\t\toptional\n\t\t\t\t\tsoftware\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tswpack1\n\t\t\t\t\t\t\tswpack2\n\ncust_a\n\tfeatures\n\t\ttecom\n\t\t\tipvoice\n\t\t\t\tmandatory\n\t\t\t\t\tsoftware\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tswpack2\n\t\t\t\t\t\t\tswpack1\n\t\t\tmandatory\n\t"
+    }
+  ],
+  "created": 1677664401,
+  "id": "cmpl-6pDRBNbGzjZUgqVFcgiZxu3J6njPN",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 169,
+    "total_tokens": 399
+  }
+}

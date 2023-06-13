@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tdispatch_method\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispatch_queue\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispatch_fifo\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispatch_lifo\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tthread_attribute\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tattributes_name\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tattributes_name_prefix\n\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\tattributes_name_unique\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tattributes_name_string\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tshort_name\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tshort_name_string\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tlong_name\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tlong_name_string\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tname_class\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tname_class_string\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677663029,
+  "id": "cmpl-6pD53K7vdBEe7DqA8mAVelohYXjCT",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1321,
+    "total_tokens": 1821
+  }
+}

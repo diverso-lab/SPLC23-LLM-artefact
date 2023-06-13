@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tmobilesolutions\n\t\t\t\t\tnotebookaccessories\n\t\t\t\t\tnetbooks\n\t\t\t\t\t_id_0_53\n\t\t\t\t\t_id_0_54\n\t\t\t\t\t_id_0_55\n\t\t\t\t\t_id_0_56\n\t\t\t\t\t_id_0_57\n\t\t\t\t\t_id_0_58\n\t\t\t\t\t_id_0_59\n\t\t\t\t\t_id_0_60\n\t\t\t\t\t_id_0_61\n\t\t\t\t\t_id_0_62\n\t\t\t\t\t_id_0_63\n\t\t\t\t\t_id_0_64\n\t_id_1\n\t\tmandatory\n\t\t\tproductfamily\n\t\t\t\talternative\n\t\t\t\t\tlaptopsandnetbooks\n\t\t\t\t\t_id_1_65\n\t\t\t\t\t_id_1_66\n\t\t\t\t\t_id_1_67\n\t\t\t\t\t_id_1_68\n\t_id_2\n\t\tmandatory\n\t\t\tproductclass\n\t\t\t\talternative\n\t\t\t\t\tmininotebooks\n\t\t\t\t\tinspironlaptops\n\t\t\t\t\tstudiolaptops\n\t\t\t\t\txpslaptops\n\t\t\t\t\tadamo\n\t\t\t\t\tmobilesolutions\n\t\t\t\t\tnotebookaccessories\n\t\t\t\t\tnetbooks\n\t\t\t\t\t_id_2_69\n\t\t\t\t\t_id_2_70\n\t\t\t\t\t_id_2_71\n\t\t\t\t\t_id_2_72\n\t\t\t\t\t_id_2_73\n\t\t\t\t\t_id_2_74\n\t\t\t\t\t_id_2_75\n\t\t\t\t\t_id_2_76\n\t\t\t\t\t_id_2_77\n\t\t\t\t\t_id_2_78\n\t\t\t\t\t_id_2_79\n\t\t\t\t\t_id_2_"
+    }
+  ],
+  "created": 1677667445,
+  "id": "cmpl-6pEEH7jSX9So2syAkdHqdXcl5S1c8",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1781,
+    "total_tokens": 2281
+  }
+}

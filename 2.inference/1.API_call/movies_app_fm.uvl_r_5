@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tLocal\n\t\t\t\t\t\tPandora\n\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\tCache_Policy\n\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\tLeast_Recently_Used\n\t\t\t\t\t\t\t\t\t\tMost_Recently_Used\n\t\t\t\t\t\t\t\t\t\tLeast_Frequently_Used\n\t\t\t\t\t\t\t\t\t\tMost_Frequently_Used\n\t\t\t\t\t\t\t\t\t\tRandom\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\tCache_Size\n\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\tCache_Size_Unit\n\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\tMB\n\t\t\t\t\t\t\t\t\t\t\t\tGB\n\t\t\t\t\t\t\t\t\t\t\t\tTB\n\t\t\t\t\t\t\t\t\t\t\t\tPB\n\t\t\t\t\t\t\t\t\t\t\t\tEB\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCache_Size_Value\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSearch\n\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\tLocal\n\t\t\t\t\t\t\t\t\t\tRemote\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t"
+    }
+  ],
+  "created": 1677666675,
+  "id": "cmpl-6pE1rkQPKz3W7X9aXBrGJTDYgPaM8",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 147,
+    "total_tokens": 647
+  }
+}

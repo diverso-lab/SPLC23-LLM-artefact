@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tIn_Memory\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tPage_Size\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t4096\n\t\t\t\t\t\t\t\t\t8192\n\t\t\t\t\t\t\t\t\t16384\n\t\t\t\t\t\t\t\t\t32768\n\t\t\t\t\t\t\t\t\t65536\n\t\t\t\t\t\t\tMemory_Allocation\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tStatic\n\t\t\t\t\t\t\t\t\tDynamic\n\t\t\t\t\t\t\tPage_Replication\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tLRU\n\t\t\t\t\t\t\t\t\tLFU\n\t\t\t\t\tPersistent\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tPage_Size\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t4096\n\t\t\t\t\t\t\t\t\t8192\n\t\t\t\t\t\t\t\t\t16384\n\t\t\t\t\t\t\t\t\t32768\n\t\t\t\t\t\t\t\t\t65536\n\t\t\t\t\t\t\tMemory_Allocation\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tStatic\n\t\t\t\t\t\t\t\t\tDynamic\n\t\t\t\t\t\t\tPage_Replication\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tLRU\n\t\t\t\t\t\t\t\t\tLFU\n\t\t\t\t\tIn_Memory_and_Persistent\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tPage_Size\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t4096\n\t\t\t\t\t\t\t\t\t8192\n\t\t\t\t\t\t\t\t\t16384\n\t\t\t\t\t\t\t\t\t32768\n\t\t\t\t\t\t\t\t\t65536\n\t\t\t\t\t\tIn_Memory\n\t\t"
+    }
+  ],
+  "created": 1677661780,
+  "id": "cmpl-6pCkue0L6m7JzapwXouMRvcAjfFQo",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 299,
+    "total_tokens": 799
+  }
+}

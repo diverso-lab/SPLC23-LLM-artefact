@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tbeans\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tjava\n\t\t\t\t\tforms\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tjava\n\t\t\t\t\t\t\tqt\n\t\toptional\n\t\t\tcode_generator\n\t\t\t\tmandatory\n\t\t\t\t\tgui\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tjava\n\t\t\t\t\t\t\tjava\n\t\t\t\t\tmodel\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tjava\n\t\t\t\t\t\t\tqt\n\t\t\t\t\tcontroller\n\t\t\t\t\t\tmandatory\n\t"
+    }
+  ],
+  "created": 1677662177,
+  "id": "cmpl-6pCrJzrVR2HLeyxYdzY239sFRHOmV",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 188,
+    "total_tokens": 352
+  }
+}

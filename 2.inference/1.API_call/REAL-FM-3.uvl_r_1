@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tdb\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tdb_type\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tmysql\n\t\t\t\t\t\t\t\t\t\t\t\t\toracle\n\t\t\t\t\t\t\t\t\t\t\t\t\tdb2\n\t\t\t"
+    }
+  ],
+  "created": 1677666956,
+  "id": "cmpl-6pE6OkrWbTcy1OVlCIoczXqyklV8A",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 652,
+    "total_tokens": 768
+  }
+}

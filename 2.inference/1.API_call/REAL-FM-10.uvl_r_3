@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tuser_pos_location\n\t\t\t\t\t\t\t\tmandatory\n\t\t"
+    }
+  ],
+  "created": 1677663693,
+  "id": "cmpl-6pDFleCSyM5tCpNXzVPqg6SIaxZkd",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 224,
+    "total_tokens": 260
+  }
+}

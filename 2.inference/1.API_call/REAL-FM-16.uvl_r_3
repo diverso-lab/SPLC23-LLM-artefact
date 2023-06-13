@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tgsm\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tcdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\ttdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t3g\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\twap\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tmms\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_gsm\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_cdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_tdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_3g\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_wap\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tvoice\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tfax\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tgsm\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tcdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\ttdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t3g\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\twap\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tdata\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tgprs\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tcdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\ttdma\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_3g\n\t"
+    }
+  ],
+  "created": 1677666399,
+  "id": "cmpl-6pDxPGDTdyMGhjQCsHEPq5o5TRVZc",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 394,
+    "total_tokens": 894
+  }
+}

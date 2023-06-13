@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tOn_Disk\n\t\t\t\t\t\t\tCache_Replication\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tWrite_Through\n\t\t\t\t\t\t\t\t\tWrite_Back\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t"
+    }
+  ],
+  "created": 1677661597,
+  "id": "cmpl-6pChxf4YkSRL2ciInaHwSrkQ582Si",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 299,
+    "total_tokens": 372
+  }
+}

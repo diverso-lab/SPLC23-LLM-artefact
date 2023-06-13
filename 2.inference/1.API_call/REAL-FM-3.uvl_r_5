@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tsite_search\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\timages\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\ttext\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\thtml\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tdynamic\n\t\t\t\toptional\n\t\t\t\t\tad_server\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\treports\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tpopups\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tbanners\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tban_img\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tban_flash\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tkeyword\n\t\tmandatory\n\t\t\tweb_server\n\t\t\t\toptional\n\t\t\t\t\tlogging\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tdb\n\t\t\t\t\t\t\tfile\n\t\t\t\toptional\n\t\t\t\t\tprotocol\n\t\t\t\t\t\tor\n\t\t\t\t\t\t\tnttp\n\t\t\t\t\t\t\tftp\n\t\t\t\t\t\t\thttps\n\t\t\t\tmandatory\n\t\t\t\t\tcont\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tstatic\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tactive\n\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\tasp\n\t\t\t\t\t\t\t\t\tphp\n\t\t\t\t\t\t\t\t\tjsp\n\t\t\t\t\t\t\t\t\tcgi\n\t\toptional\n\t\t\tpersistence\n\t\t\t\talternative\n\t\t\t\t\txml\n\t\t\t\t\tdatabase\n\t\toptional\n\t\t\tri\n\t\t\t\tor\n\t\t\t\t\tdata_storage\n\t\t\t\t"
+    }
+  ],
+  "created": 1677667114,
+  "id": "cmpl-6pE8wObvdEWbxFNIMBnM71niOQHzh",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 652,
+    "total_tokens": 1152
+  }
+}

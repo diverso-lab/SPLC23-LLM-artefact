@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tbegin_end_cobol\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_if_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_evaluate_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_search_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_perform_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_read_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_write_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_unstring_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tbegin_end_string_cobol\n\t\t\t\t\t\t\t\t\t\t\t\tend\n\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_cobol\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_if_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_evaluate_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_search_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_perform_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_read_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_write_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_unstring_cobol\n\t\t\t\t\t\t\t\t\t\t\t\t\tnot_begin_end_string_cobol\n\t\t\t\t\t\t\t\t\t\t\t\tend\n\t\t\t"
+    }
+  ],
+  "created": 1677665858,
+  "id": "cmpl-6pDoguaX2QjBgrZkYDhSQyA1UK3Op",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 679,
+    "total_tokens": 1179
+  }
+}

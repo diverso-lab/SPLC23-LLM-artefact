@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_id_5\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t_id_7\n\t\t\t\t\t\t\t\t\t\t\t_id_8\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t_id_9\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t_id_10\n\t\t\t\t\t\t\t\t\t\t\t_id_11\n\t\tmandatory\n\t\t\t_id_12\n\t\t\t\tmandatory\n\t\t\t\t\t_id_13\n\t\t\t\tmandatory\n\t\t\t\t\t_id_14\n\t\t\t\tmandatory\n\t\t\t\t\t_id_15\n\t\tmandatory\n\t\t\t_id_16\n\t\t\t\tmandatory\n\t\t\t\t\t_id_17\n\t\t\t\tmandatory\n\t\t\t\t\t_id_18\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t_id_19\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t_id_21\n\t\t\t\t\t\t\t\t\t_id_22\n\t\t\t\tmandatory\n\t\t\t\t\t_id_23\n\t\t\t\tmandatory\n\t\t\t\t\t_id_24\n\t\t\t\tmandatory\n\t\t\t\t\t_id_25\n\t\t\t\tmandatory\n\t\t\t\t\t_id_26\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t_id_28\n\t\t\t\t\t\t\t_id_29\n\t\t\t\tmandatory\n\t\t\t\t\t_id_30\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t_id_32\n\t\t\t\t\t\t\t_id_33\n\t\t\t\tmandatory\n\t\t\t\t\t_id_34\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t_id_35\n\t\t"
+    }
+  ],
+  "created": 1677666213,
+  "id": "cmpl-6pDuP7jL51yxcEm21h5dEmp66P8Is",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1360,
+    "total_tokens": 1860
+  }
+}

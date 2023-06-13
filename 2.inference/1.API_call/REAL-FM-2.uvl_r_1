@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\tmandatory\n\t\t\t\t\tlocal_data\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tlocal_data_format\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\txml\n\t\t\t\t\t\t\t\t\thtml\n\t\t\t\t\t\t\t\t\tplain_text\n\t\t\t\t\t\t\tlocal_data_location\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tfile_path\n\t\t\t\t\t\t\t\t\tfile_url\n\t\t\t\t\t\t\t\t\topendata_api\n\t\t\t\t\t\t\tlocal_data_provider\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tDWD\n\t\t\t\t\t\t\t\t\tZAMG\n\t\t\t\t\t\t\tlocal_data_language\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tenglish\n\t\t\t\t\t\t\t\t\tgerman\n\t\t\t\t\t\t\tlocal_data_content\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tforecast\n\t\t\t\t\t\t\t\t\tobservation\n\t\t\t\t\t\t\t\t\tweather_warning\n\t\t\t\t\t\t\tlocal_data_permission\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677665128,
+  "id": "cmpl-6pDcu6IxaMVaVZHRvUFbYVJgDDLDc",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 343,
+    "prompt_tokens": 277,
+    "total_tokens": 620
+  }
+}

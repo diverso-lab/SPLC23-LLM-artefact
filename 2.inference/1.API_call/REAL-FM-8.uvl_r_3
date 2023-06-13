@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\texhaust_level\n\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tlamda_sensor\n\t\t\t\t\t\t\t\t\tcatalic_converter\n"
+    }
+  ],
+  "created": 1677665621,
+  "id": "cmpl-6pDkrTYfyrUHZl6iMXEfwdA1uCBqK",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 262,
+    "total_tokens": 317
+  }
+}

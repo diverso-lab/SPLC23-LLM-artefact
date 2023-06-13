@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\texhaust_gas\n\t\t\t\t\tmandatory\n\t\t\t\t\t\tmeasurements\n\t"
+    }
+  ],
+  "created": 1677665577,
+  "id": "cmpl-6pDk9yz5T0ivzn5JGKNPUcLNH43jz",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 262,
+    "total_tokens": 303
+  }
+}

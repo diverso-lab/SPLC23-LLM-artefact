@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tcoroutine_dispatching\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispatcher_thread\n\t\t\t\t\t\t\t\t\t\t\t\t\tdispatcher_based\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tidle_control\n\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\tidle_guard\n\t\t\t\t\t\t\t\t\t\t\t\t\tidle_panic\n\t\t\t\t\t\t\t\t\t\t\t\t\tidle_user\n\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\tscheduling\n\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\tbundle_schedule\n\t\t\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbundle_preemption\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbundle_strategy\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbundle_strategy_replugging\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbundle_fcfs\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbundle_lcfs\n\t\t\t\t\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\t\t\t\t\tquery_schedule\n\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\tthread_schedule\n\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677662969,
+  "id": "cmpl-6pD45pPlpuK8nlIRMS4E1p91riZuX",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1321,
+    "total_tokens": 1821
+  }
+}

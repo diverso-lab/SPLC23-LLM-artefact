@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tFree_Page_List\n\t\t\t\t\tLRU\n\t\tmandatory\n\t\t\tMemory_Manager\n\t\t\t\talternative\n\t\t\t\t\tHeap_Manager\n\t\t\t\t\tSegmentation\n\t\t\t\t\tPaging\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tHard_Disk\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tStorage_Manager\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tFile_Manager\n\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\tFile_Control_Block\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFile_Directories\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFile_Tables\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDirectory_Entries\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTable_Entries\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBlock_Size_Bytes\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFile_Header\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677661662,
+  "id": "cmpl-6pCj02vSbdelxks41SIzeS3UqGIF7",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 299,
+    "total_tokens": 799
+  }
+}

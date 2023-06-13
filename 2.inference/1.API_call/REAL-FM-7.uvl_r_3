@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tswing\n\t\t\t\toptional\n\t\t\t\t\tcocoa\n\t\t\t\t\tgtk\n\t\t\t\t\t\tand\n\t\t\t\t\t\t\tswt\n\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\tjface\n\t\t\t\t\t\t\t\t\tand\n\t\t\t\t\t\t\t\t\t\trcp\n\t"
+    }
+  ],
+  "created": 1677662111,
+  "id": "cmpl-6pCqFlz7HT0cmX5R37f0Ak8vhDOYA",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 188,
+    "total_tokens": 282
+  }
+}

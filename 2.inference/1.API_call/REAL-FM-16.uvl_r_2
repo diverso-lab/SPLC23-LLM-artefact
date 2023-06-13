@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\toptional\n\t\t\t\t\t\t\t\t\tsms_broadcast\n\t"
+    }
+  ],
+  "created": 1677666357,
+  "id": "cmpl-6pDwjaG8CfVI1r7E3aHuPQcAvkMMC",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 394,
+    "total_tokens": 421
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": null,
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t_id_4\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t_id_5\n\t\t\t\t\t\t\t_id_6\n\t\t\t\t\t\t\t_id_7\n\t\t\t\t\t\t\t_id_8\n\t\t\t\t\t\t\t_id_9\n\t\t\t\t\t\t\t_id_10\n\t\t\t\t\t\t\t_id_11\noptional\n\tsearch_by_language\n\t\tor\n\t\t\t_id_9\n\t\t\t_id_10\n\t\t\t_id_11\noptional\n\tpage_preview\nconstraints\n\tsearch_by_language requires page_translation\n\tpage_preview excludes svg\n\nfeatures\n\t_id_0\n\t\toptional\n\t\t\tpage_translation\n\t\tmandatory\n\t\t\t_id_1\n\t\t\t\tmandatory\n\t\t\t\t\t_id_2\n\t\t\t\toptional\n\t\t\t\t\t_id_3\n\t\t\t\t\t_id_4\n\t\t\t\t\t\tmandatory\n\t"
+    }
+  ],
+  "created": 1677667313,
+  "id": "cmpl-6pEC9BOF4HgmkWeIY2KSrX55l4rRS",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 259,
+    "prompt_tokens": 206,
+    "total_tokens": 465
+  }
+}

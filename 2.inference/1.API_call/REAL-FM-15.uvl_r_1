@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tdata_source\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tshared_memory\n\t\t\t\t\t\t\tadt\n\t\t\t\t\t\t\t\tstack\n\t\t\t\t\t\t\t\tqueue\n\t\t\t\t\t\t\t\tdeque\n"
+    }
+  ],
+  "created": 1677661380,
+  "id": "cmpl-6pCeSi15sEfwavN1Kpr6GgXakAStb",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 366,
+    "total_tokens": 437
+  }
+}

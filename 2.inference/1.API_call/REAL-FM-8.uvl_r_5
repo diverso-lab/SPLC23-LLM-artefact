@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tturbo\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\texhaust_gas\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tboost_pressure\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tengine_load\n\t\t\t\tmandatory\n\t\t\t\t\tpressures\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tfuel\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\toil\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tturbo\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tair_mass\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\texhaust_gas\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tboost_pressure\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tbrake_fluid\n\t\t\t\tmandatory\n\t\t\t\t\tengine_load\n\t\t\t\tmandatory\n\t\t\t\t\tboost_pressure\n\t\t\t\tmandatory\n\t\t\t\t\ttorque\n\t\t\t\tmandatory\n\t\t\t\t\tcylinders\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\ttemperatures\n\t\t\t\tmandatory\n\t\t\t\t\tturbo\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\ttemperatures\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\texhaust_gas\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tpressure\n\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\trpm\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tpressures\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\texhaust_gas\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677665688,
+  "id": "cmpl-6pDlwIjYAedJslUG3B1kXofO0b6Wf",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 262,
+    "total_tokens": 762
+  }
+}

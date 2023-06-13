@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tshift_type\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\twhole_line\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tshift_data\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\teach_word\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\tfirst_word\n\t\t\t\t\t\t\t\t\t\t\tlast_word\n\t\t\t\t\t\t\tindividual_word\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tshift_data\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tall_words\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\todd_words\n\t\t\t\t\t\t\t\t\t\t\teven_words\n\t\t\t\t\t\t\tshift_type\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t"
+    }
+  ],
+  "created": 1677661537,
+  "id": "cmpl-6pCgzTKE3fRPS7pCnQj6koUWsEMvt",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 257,
+    "prompt_tokens": 366,
+    "total_tokens": 623
+  }
+}

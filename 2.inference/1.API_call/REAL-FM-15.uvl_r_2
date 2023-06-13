@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tshift_size\n\t\t\t\t\t\talternatives\n\t\t\t\t\t\t\tword\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tshift_size\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\tsingle\n\t\t\t\t\t\t\t\t\t\t\tmultiple\n\t\t\t\t\t\t\tcharacter\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tshift_size\n\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\tsingle\n\t\t\t\t\t\t\t\t\t\t\tmultiple\n\t\t\t\tmandatory\n\t\t\t\t\tshift_data\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\timplicit\n\t\t\t\t\t\t\texplicit\n\t\t\t\toptional\n\t\t\t\t\tcompression\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tshift_processing\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\teach_line\n\t\t\t\t\t\t\tall_lines\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tnoise_words\n\t\tmandatory\n\t\t\talpha_sort\n\t\t\t\tmandatory\n\t\t\t\t\torder\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tdescendant\n\t\t\t\t\t\t\tascendant\n\t\t\t\tmandatory\n\t\t\t\t\tcase_sensitivity\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tsensitive\n\t\t\t\t\t\t\tinsensitive\n\t\tmandatory\n\t\t\tarch_style\n\t\t\t\talternative\n\t\t\t\t\tshared_data\n\t\t\t\t\tadt\n\t\t\t\t\timplicit_invocation\n\t\t\t\t\tpipe_and_filter\n\t\tmandatory\n\t\t\toutput\n\t\t\t\tmandatory\n\t\t\t\t\tformat\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tcolumns\n\t\t\t\t\t\t"
+    }
+  ],
+  "created": 1677661405,
+  "id": "cmpl-6pCerjrId7IYxeEdshz7TACqrlRWZ",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 366,
+    "total_tokens": 866
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\tor\n\t"
+    }
+  ],
+  "created": 1677665214,
+  "id": "cmpl-6pDeI9F629F6QfsvrL4wYROaW2zwF",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 277,
+    "total_tokens": 285
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tUnconstrained\n\t\t\t\t\t\t\t\t\t\t\tConstrained\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tLocal\n\t\t\t\t\t\t\t\t\t\t\t\t\tGlobal\n\t\t\t\t\t\t\t\t\tSyntactically_typed\n\t\t\t\t\t\t\t\t\tSemantically_typed\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tAtoms\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tUntyped\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tUnconstrained\n\t\t\t\t\t\t\t\t\t\t\tConstrained\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tLocal\n\t\t\t\t\t\t\t\t\t\t\t\t\tGlobal\n\t\t\t\t\t\t\t\t\tSyntactically_typed\n\t\t\t\t\t\t\t\t\tSemantically_typed\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tExpressions\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tUntyped\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\tUnconstrained\n\t\t\t\t\t\t\t\t\t\t\tConstrained\n\t\t\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t\t\t\t\t\t\t\t\t\tLocal\n\t\t\t\t\t\t\t\t\t\t\t\t\tGlobal\n\t\t\t\t\t\t\t\t\tSyntactically_typed\n\t\t\t\t\t\t\t\t\tSemantically_typed\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tPatterns\n\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\tUntyped\n\t\t\t\t\t\t\t\t\t\tor\n\t\t\t\t"
+    }
+  ],
+  "created": 1677662786,
+  "id": "cmpl-6pD18osSdOGN29nWpVzq7GgtIEoZW",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 1469,
+    "total_tokens": 1969
+  }
+}

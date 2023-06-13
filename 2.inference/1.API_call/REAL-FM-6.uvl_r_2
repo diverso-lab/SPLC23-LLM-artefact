@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tli_poly\n\t\t\t\t\t\tor\n\t"
+    }
+  ],
+  "created": 1677662255,
+  "id": "cmpl-6pCsZzk3fxHO2jZ7QCesGTkglvrw1",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 19,
+    "prompt_tokens": 137,
+    "total_tokens": 156
+  }
+}

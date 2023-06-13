@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tquantity\n\t\tmandatory\n\t\t\tperiod\n\t\t\t\tmandatory\n\t\t\t\t\tperiod_start\n\t\t\t\t\tperiod_end\n\t\tmandatory\n\t\t\tinsurance_type\n\t\t\t\talternative\n\t\t\t"
+    }
+  ],
+  "created": 1677666084,
+  "id": "cmpl-6pDsKxPa0QXV8Ho47E8F70WdPWHF7",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 306,
+    "total_tokens": 371
+  }
+}

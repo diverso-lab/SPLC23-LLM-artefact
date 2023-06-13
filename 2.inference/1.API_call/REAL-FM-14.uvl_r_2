@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tminutes\n\t\t\t\toptional\n\t\t\t\t\tbackup_onclose\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tyes_no\n\t\t\t\toptional\n\t\t\t\t\tbackup_format\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tbackup_format\n\t\t\t\toptional\n\t\t\t\t\tbackup_folder\n\t\t\t\t\t\toptional\n\t\t\t\t\t\t\tfolder\n\t\t\t\toptional\n\t\t\t\t\tbackup_rename\n\t\t\t\t\t\toptional\n\t"
+    }
+  ],
+  "created": 1677663863,
+  "id": "cmpl-6pDIVMnYG7cFJcsymCvb9n2I2ynp2",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 298,
+    "total_tokens": 451
+  }
+}

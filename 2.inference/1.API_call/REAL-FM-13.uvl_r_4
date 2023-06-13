@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tswitch\n\t\t\t\tmandatory\n\t\t\t\t\tlocation\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tbuilding\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tfloor\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tposition\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\track\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\tcabinet\n\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\tsizes\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tlarge\n\t\t\t\t\t\t\tmedium\n\t\t\t\t\t\t\tsmall\n\t\t\t\t\t\t\tupgrade_swpack\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tsoftware\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t\t\t\t\t\tswpack1\n\t\t\t\t\t\t\t\t\t\t\t\tswpack2\n\t\t\t\t\t\t\t\t\t\t\t\tswpack3\n\t\t\t\t\t\t\t\t\t\t\t\tswpack4\n\t\t\t\t\t\t\t\t\t\t\t\tswpack5\n\t\t\t\t\t\t\t\t\t\t\t\tswpack6\n\t\t\t\t\t\t\t\t\t\t\t\tswpack7\n\t\t\t\t\t\t\t\t\t\t\t\tswpack8\n\t\t\t\t\t\t\t\t\t\t\t\tswpack9\n\t\t\t\t\t\t\t\t\t\t\t\tswpack10\n\t\t\t\t\t\t\t\t\t\t\t\tswpack11\n\t\t\t\t\t\t\t\t\t\t\t\tswpack12\n\t\t\t\t\t\t\t\t\t\t\t\tswpack13\n\t\t\t\t\t\t\t\t\t\t\t\tswpack14\n\t\t\t\t\t\t\t\t\t\t\t\tswpack15\n\t\t\t\t\t\t\t\t\t\t\t\tsw"
+    }
+  ],
+  "created": 1677664533,
+  "id": "cmpl-6pDTJo8mDLADnJ1RVeZAjjRoEZBqm",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 169,
+    "total_tokens": 669
+  }
+}

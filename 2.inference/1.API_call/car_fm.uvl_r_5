@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t_id_3\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\tparking_sensor\n\t\t\t\t\t\t\tparking_camera\n\t\t\t\toptional\n"
+    }
+  ],
+  "created": 1677665100,
+  "id": "cmpl-6pDcSFpCiH0Ty26QnBB7jq4etAxVQ",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 233,
+    "total_tokens": 284
+  }
+}

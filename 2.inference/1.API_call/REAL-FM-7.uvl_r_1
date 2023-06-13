@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\tswt\n\t\t\t\t\tswing\n\t\t\t\t\t\n\t\t\t\t\tcocoa\n\t\t\t\t\tcarbon\n\t\t\t\t\t\n\t\t\t\t\twin32\n\t\t\t\t\tmfc\n\t\t\t\t\t\n\t\t\t\t\tqtw\n\t\toptional\n\t\t\tmodel\n\t\t\t\tmandatory\n\t\t\t\t\tuml\n\t\t\t\t\tpetri_net\n\t\toptional\n\t\t\tcode_generator\n\t\t\t\tmandatory\n\t\t\t\t\tcpp\n\t\t\t\t\tcsharp\n\t\t\t\t\tada\n\t\t\t\t\tpython\n\t\t\t\t\truby\n\t\t\t\t\tvb\n\t\t\t\t\tfreebasic\n"
+    }
+  ],
+  "created": 1677662028,
+  "id": "cmpl-6pCouHizQAkS0pgvUNDztPsdabjLk",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 188,
+    "total_tokens": 367
+  }
+}

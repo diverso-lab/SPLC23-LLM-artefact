@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tminutes\n\t\t\t\toptional\n\t\t\t\t\tfile_backup\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\tfile_ext\n\t\t"
+    }
+  ],
+  "created": 1677664005,
+  "id": "cmpl-6pDKnzOclMiVgSLRSeKHxWzGAPmRQ",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 298,
+    "total_tokens": 356
+  }
+}

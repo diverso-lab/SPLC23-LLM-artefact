@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\t\t\t_id_2\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t_id_3\n\t\t\t\t\t\t\tblind_spot_detection\n\t\t\t\t\t\t\tparallel_park_assist\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tautomatic_parking\n\t\t\t\toptional\n\t\t\t\t\t_id_2\n\t\t\t\t\t\talternative\n\t\t\t\t\t\t\t_id_3\n\t\t\t\t\t\t\tblind_spot_detection\n\t\t\t\t\t\t\tparallel_park_assist\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\tautomatic_parking\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\tautomatic_steering\n\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\tautomatic_braking\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tautomatic_accelerator\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tautomatic_speed_control\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tautomatic_distance_control\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tautomatic_steering_control\n\t\toptional\n\t\t\t_id_0_5\n\t\t\t\tmandatory\n\t\t\t\t\t_id_6\n\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t_id_7\n\t\t\t\t\t\t\t\tmandatory\n\t\t\t\t\t\t\t\t\t_id_8\n\t\t\t\t\t\t\t\t\t\tmandatory\n\t\t"
+    }
+  ],
+  "created": 1677664912,
+  "id": "cmpl-6pDZQpIKf0FLoxyUgnVkge67vkovF",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 233,
+    "total_tokens": 733
+  }
+}

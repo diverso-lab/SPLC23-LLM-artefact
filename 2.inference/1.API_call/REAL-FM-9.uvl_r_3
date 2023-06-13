@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\t\t\tgui\n\t\t\t\talternative\n\t\t\t\t\thtml\n\t\t\t\t\twml\n\t\t\t\t\tswing\n\t\tmandatory\n\t\t\tcore\n\t\tmandatory\n\t\t\tmodules\n\t\t\t\talternative\n\t\t\t\t\tcalendar\n\t\t\t\t\tforum\n\t\t\t\t\tcongress_mngt\n\t\t\t\t\trepository\n\t\t\t\t\tpda_optimized\n\t\t\t\t\t\trequires pda\n\t\t\t\t\t\texcludes repository\n\t\t\t\t\t\trequires ws_interface\n\t\t\t\t\t\trequires db\n\t\t\t\t\t\trequires html\n\t\t\t\t\t\texcludes ldap\n\t\t\t\t\t\texcludes congress_mngt\n\t\t\t\t\t\texcludes calendar\n\t\t\t\t\t\texcludes forum\n\tmodel\n\t\tmandatory\n\t\t\tuser_mngt\n\t\t\t\talternative\n\t\t\t\t\tldap\n\t\t\t\t\tdb\n\t\tmandatory\n\t\t\tgui\n\t\t\t\talternative\n\t\t\t\t\thtml\n\t\t\t\t\twml\n\t\t\t\t\tswing\n\t\tmandatory\n\t\t\tcore\n\t\tmandatory\n\t\t\tmodules\n\t\t\t\talternative\n\t\t\t\t\tcalendar\n\t\t\t\t\tforum\n\t\t\t\t\tcongress_mngt\n\t\t\t\t\trepository\n\tmodel2\n\t\talternative\n\t\t\tuser_mngt\n\t\t\t\talternative\n\t\t\t\t\tldap\n\t\t\t\t\tdb\n\t\tmandatory\n\t\t\tgui\n\t\t\t\talternative\n\t\t\t\t\thtml\n\t\t\t\t\twml\n\t\t\t\t\tswing\n\t\tmandatory\n\t\t\tcore\n\t\tmandatory\n\t\t\tmodules\n\t\t\t\talternative\n\t\t\t\t\tcalendar\n\t\t\t\t\tforum\n\t\t\t\t\tcongress_mngt\n\t\t\t\t\trepository\n\tmodel3\n\t\talternative\n\t\t\t"
+    }
+  ],
+  "created": 1677664740,
+  "id": "cmpl-6pDWeMsu1hDUx652qUqO61DSSFjk3",
+  "model": "code-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 500,
+    "prompt_tokens": 163,
+    "total_tokens": 663
+  }
+}
